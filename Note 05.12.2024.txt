@@ -19,7 +19,7 @@ Backend:
 Mở terminal:
 git init
 git status: màu đỏ, chưa ...
-git add .
+git add . : đưa các file đang làm việc ở working space
 ------------------------------------------ HTML ------------------------------------------
 Tạo file HTML --> html:5 -> tab
 

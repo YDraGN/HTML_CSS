@@ -1,0 +1,10 @@
+Phím tắt cơ bản:
+! + tab: để tạo cấu trúc html cơ bản
+Alt + shift: tạo ra hàng mới giống hàng hiện tại (copy)
+Type ul>li*7 : tạo ul với 7 thẻ li con
+Alt + click nhiều chỗ: sửa ở nhiều nơi (tạo nhiều con trỏ chuột)
+
+Extension Làm việc với HTML:
+Auto close Tag 
+Auto rename
+Live server
